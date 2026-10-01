@@ -104,17 +104,15 @@ A PHP and MySQL-based e-commerce platform for selling books with shopping cart, 
 
 A modern personal portfolio built with React, Vite, Tailwind CSS and Framer Motion to showcase my skills, projects and experience.
 
-### HMS SaaS — In Progress
+### HMS SaaS
 
-A multi-tenant Hospital Management System built with the MERN stack, designed to support multiple hospitals with isolated data and scalable features.
+A multi-tenant Hospital Management System built with the MERN stack, designed to manage hospital operations with separate data and workflows for different organizations.
 
----
 
 ## What I'm Currently Working On
 
-- Improving frontend development with React
-- Building full-stack MERN applications
-- Working on the HMS SaaS project
+- Building and improving full-stack MERN applications
+- Exploring modern frontend development
 - Improving UI design and responsive development
 - Strengthening backend and database skills
 
