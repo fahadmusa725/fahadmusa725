@@ -1,6 +1,6 @@
 <!--
-  Fahad Musa — GitHub Profile README
-  Theme: Dark tech with a warm amber/orange accent — #f97316 / #fbbf24 on #0d1117
+  Fahad Musa: GitHub Profile README
+  Theme: Dark tech with a warm amber/orange accent: #f97316 / #fbbf24 on #0d1117
   Auto-generated assets: profile-3d-contrib/ (3D graph), github-metrics.svg (analytics), output branch (snake) via GitHub Actions
 -->
 
@@ -41,25 +41,25 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fahadmusa725&color=1A1A1A&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=fahadmusa725.fahadmusa725&color=f97316&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
-## ⚡ About Me
+## About Me
 
 Full stack developer from Pakistan, mainly working in the **MERN stack** (MongoDB, Express, React, Node.js), with PHP/MySQL and Laravel in the mix when a project calls for it.
 
 I like building things that actually get finished and work end to end, not half-done demos. Most of what's below are real projects, not tutorial clones.
 
-- 🏥 Built **CareFlow HMS**, a multi-tenant hospital management SaaS
-- 🍽️ Built **DineFlow**, a multi-restaurant POS SaaS
-- 🎯 Focused on clean, responsive interfaces that are actually usable, not just working
-- 📡 Comfortable across the stack — REST APIs, database design, and the frontend that sits on top of them
+- Built **CareFlow HMS**, a multi-tenant hospital management SaaS
+- Built **DineFlow**, a multi-restaurant POS SaaS
+- Focused on clean, responsive interfaces that are actually usable, not just working
+- Comfortable across the stack: REST APIs, database design, and the frontend that sits on top of them
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,php,laravel,cs,git,github,vite,vscode&theme=dark" alt="Tech stack"/>
@@ -71,7 +71,7 @@ I like building things that actually get finished and work end to end, not half-
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/fahadmusa725/HMS-Project">
@@ -82,13 +82,13 @@ I like building things that actually get finished and work end to end, not half-
   </a>
 </p>
 
-**CareFlow HMS** — a multi-tenant hospital management system. Handles patients, appointments, wards, lab, pharmacy and billing, with each hospital's data fully isolated from the others.
+**CareFlow HMS**: a multi-tenant hospital management system. Handles patients, appointments, wards, lab, pharmacy and billing, with each hospital's data fully isolated from the others.
 
-**DineFlow POS** — a multi-restaurant point-of-sale system. Covers orders, a live kitchen display, inventory with recipe-based stock deduction, staff roles and permissions, and reporting.
+**DineFlow POS**: a multi-restaurant point-of-sale system. Covers orders, a live kitchen display, inventory with recipe-based stock deduction, staff roles and permissions, and reporting.
 
 ---
 
-## 🔥 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub metrics" />
@@ -104,7 +104,7 @@ I like building things that actually get finished and work end to end, not half-
 
 ---
 
-## 🧊 3D Contribution Graph
+## 3D Contribution Graph
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-amber-animate.svg" alt="3D contribution graph" />
@@ -114,7 +114,7 @@ I like building things that actually get finished and work end to end, not half-
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/fahadmusa725/fahadmusa725/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
@@ -124,20 +124,20 @@ I like building things that actually get finished and work end to end, not half-
 
 ---
 
-## ⚙️ What I'm Working On
+## What I'm Working On
 
-- 🏥 Improving **CareFlow HMS** — adding reporting depth and refining the billing/pharmacy modules
-- 🍽️ Improving **DineFlow** — kitchen display and inventory workflows
-- 📱 Building out **Vibely**, a MERN social media app, currently in active development
-- 📚 Getting better at backend architecture and database design
+- Improving **CareFlow HMS**: adding reporting depth and refining the billing/pharmacy modules
+- Improving **DineFlow**: kitchen display and inventory workflows
+- Building out **Vibely**, a MERN social media app, currently in active development
+- Getting better at backend architecture and database design
 
 ---
 
-## 💬 Other Projects
+## Other Projects
 
-- **Booksy** — an online bookstore built with PHP and MySQL, with a shopping cart, checkout, admin dashboard and multi-category browsing
-- **Premium Shine Detailing** — a website for a mobile car detailing business: services, pricing, a gallery, reviews, and online booking
-- **Dental Clinic Website** — a clinic website built to present services clearly and make it easy for patients to get in touch
+- **Booksy**: an online bookstore built with PHP and MySQL, with a shopping cart, checkout, admin dashboard and multi-category browsing
+- **Premium Shine Detailing**: a website for a mobile car detailing business: services, pricing, a gallery, reviews, and online booking
+- **Dental Clinic Website**: a clinic website built to present services clearly and make it easy for patients to get in touch
 
 ---
 

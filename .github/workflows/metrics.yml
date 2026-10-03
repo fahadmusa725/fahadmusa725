@@ -22,8 +22,5 @@ jobs:
           user: fahadmusa725
           template: classic
           base: header, activity, community, repositories, metadata
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_limit: 8
           config_timezone: Asia/Karachi
           config_base_color: "f97316"
