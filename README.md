@@ -55,7 +55,7 @@ I like building things that actually get finished and work end to end, not half-
 - Built **CareFlow HMS**, a multi-tenant hospital management SaaS
 - Built **DineFlow**, a multi-restaurant POS SaaS
 - Focused on clean, responsive interfaces that are actually usable, not just working
-- Comfortable across the stack: REST APIs, database design, and the frontend that sits on top of them
+- Comfortable across the stack: REST APIs, database design and the frontend that sits on top of them
 
 ---
 
@@ -84,7 +84,7 @@ I like building things that actually get finished and work end to end, not half-
 
 **CareFlow HMS**: a multi-tenant hospital management system. Handles patients, appointments, wards, lab, pharmacy and billing, with each hospital's data fully isolated from the others.
 
-**DineFlow POS**: a multi-restaurant point-of-sale system. Covers orders, a live kitchen display, inventory with recipe-based stock deduction, staff roles and permissions, and reporting.
+**DineFlow POS**: a multi-restaurant point-of-sale system. Covers orders, a live kitchen display, inventory with recipe-based stock deduction, staff roles and permissions and reporting.
 
 ---
 
@@ -136,8 +136,23 @@ I like building things that actually get finished and work end to end, not half-
 ## Other Projects
 
 - **Booksy**: an online bookstore built with PHP and MySQL, with a shopping cart, checkout, admin dashboard and multi-category browsing
-- **Premium Shine Detailing**: a website for a mobile car detailing business: services, pricing, a gallery, reviews, and online booking
+- **Premium Shine Detailing**: a website for a mobile car detailing business: services, pricing, a gallery, reviews and online booking
 - **Dental Clinic Website**: a clinic website built to present services clearly and make it easy for patients to get in touch
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahadmusa725&show_icons=true&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=c9d1d9&hide_border=true" alt="Fahad Musa's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadmusa725&layout=compact&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=c9d1d9&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## Philosophy
+
+> Execution over words. If it doesn't work end to end, it isn't done.
 
 ---
 
