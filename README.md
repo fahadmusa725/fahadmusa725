@@ -52,11 +52,6 @@ Full stack developer from Pakistan, mainly working in the **MERN stack** (MongoD
 
 I like building things that actually get finished and work end to end, not half-done demos. Most of what's below are real projects, not tutorial clones.
 
-- Built **CareFlow HMS**, a multi-tenant hospital management SaaS
-- Built **DineFlow**, a multi-restaurant POS SaaS
-- Focused on clean, responsive interfaces that are actually usable, not just working
-- Comfortable across the stack: REST APIs, database design and the frontend that sits on top of them
-
 ---
 
 ## Tech Stack
@@ -126,10 +121,9 @@ I like building things that actually get finished and work end to end, not half-
 
 ## What I'm Working On
 
-- Improving **CareFlow HMS**: adding reporting depth and refining the billing/pharmacy modules
-- Improving **DineFlow**: kitchen display and inventory workflows
-- Building out **Vibely**, a MERN social media app, currently in active development
+- Building **ProjectFlow**: a Trello-style project management tool with Next.js, TypeScript and MongoDB, with real-time board sync using Ably
 - Getting better at backend architecture and database design
+- Recently shipped **CareFlow HMS**, **DineFlow POS** and **Vibely**, all full stack MERN apps
 
 ---
 
