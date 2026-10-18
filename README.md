@@ -57,7 +57,7 @@ I like building things that actually get finished and work end to end, not half-
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,php,laravel,cs,git,github,vite,vscode&theme=dark" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,php,laravel,cs,dart,git,github,vite,vscode&theme=dark&perline=10" alt="Tech stack"/>
 </p>
 
 <p align="center">
