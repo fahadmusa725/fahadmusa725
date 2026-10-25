@@ -121,9 +121,9 @@ I like building things that actually get finished and work end to end, not half-
 
 ## What I'm Working On
 
-- Building **ProjectFlow**: a Trello-style project management tool with Next.js, TypeScript and MongoDB, with real-time board sync using Ably
+- Learning **Dart** and **Flutter** to start building mobile apps
 - Getting better at backend architecture and database design
-- Recently shipped **CareFlow HMS**, **DineFlow POS** and **Vibely**, all full stack MERN apps
+- Recently shipped **ProjectFlow**, **CareFlow HMS**, **DineFlow POS** and **Vibely**, all full stack apps
 
 ---
 
