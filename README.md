@@ -123,7 +123,8 @@ I like building things that actually get finished and work end to end, not half-
 
 - Learning **Dart** and **Flutter** to start building mobile apps
 - Getting better at backend architecture and database design
-- Recently shipped **ProjectFlow**, **CareFlow HMS**, **DineFlow POS** and **Vibely**, all full stack apps
+- Shipped **CareFlow HMS** and **DineFlow POS**, both multi-tenant SaaS products
+- Also built **ProjectFlow**, **Strideon** and **Vibely**, full stack web apps
 
 ---
 
