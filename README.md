@@ -139,8 +139,8 @@ I like building things that actually get finished and work end to end, not half-
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahadmusa725&show_icons=true&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=c9d1d9&hide_border=true" alt="Fahad Musa's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadmusa725&layout=compact&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=c9d1d9&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-tau-one-85.vercel.app/api?username=fahadmusa725&show_icons=true&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=c9d1d9&hide_border=true" alt="Fahad Musa's GitHub Stats" />
+  <img src="https://github-readme-stats-tau-one-85.vercel.app/api/top-langs/?username=fahadmusa725&layout=compact&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=c9d1d9&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
