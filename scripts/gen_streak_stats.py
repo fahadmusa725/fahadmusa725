@@ -35,10 +35,10 @@ TOOLTIP_RE = re.compile(
 STYLE = {
     "background": "#0d1117",
     "border_stroke": "#000000",
-    "divider": "#f97316",
-    "ring": "#f97316",
-    "fire": "#fbbf24",
-    "label_accent": "#f97316",
+    "divider": "#06466B",
+    "ring": "#06466B",
+    "fire": "#06466B",
+    "label_accent": "#ffffff",
     "num": "#ffffff",
     "side_label": "#94a3b8",
 }

@@ -1,15 +1,15 @@
 <!--
   Fahad Musa: GitHub Profile README
-  Theme: Dark tech with a warm amber/orange accent: #f97316 / #fbbf24 on #0d1117
-  Auto-generated assets: profile-3d-contrib/ (3D graph), github-metrics.svg (analytics), output branch (snake) via GitHub Actions
+  Theme: Dark tech with accent: #06466B on #0d1117
+  Auto-generated assets: profile-3d-contrib/ (3D graph), output branch (snake) via GitHub Actions
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:f97316,100:0d1117&text=Fahad%20Musa&fontColor=FFFFFF&fontSize=52&fontAlignY=35&desc=Full%20Stack%20Developer%20%C3%97%20MERN%20Stack&descAlignY=55&descSize=18&animation=fadeIn" alt="Fahad Musa header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:06466B,100:0d1117&text=Fahad%20Musa&fontColor=FFFFFF&fontSize=52&fontAlignY=35&desc=Full%20Stack%20Developer%20%C3%97%20MERN%20Stack&descAlignY=55&descSize=18&animation=fadeIn" alt="Fahad Musa header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=F97316&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;MERN+Stack+%7C+React+%2B+Node.js;Built+CareFlow+HMS+%26+a+Restaurant+POS;Shipping+real+projects%2C+not+tutorials" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;MERN+Stack+%7C+React+%2B+Node.js;Built+CareFlow+HMS+%26+a+Restaurant+POS;Shipping+real+projects%2C+not+tutorials" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
        alt="Fahad Musa"
        width="140"
        height="140"
-       style="border-radius: 50%; border: 2px solid #f97316; box-shadow: 0 0 22px rgba(249, 115, 22, 0.5);"/>
+       style="border-radius: 50%; border: 2px solid #06466B; box-shadow: 0 0 22px rgba(6, 70, 107, 0.5);"/>
 </p>
 
 <p align="center">
@@ -25,23 +25,23 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:0d1117&height=2&section=header" alt="divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06466B,100:0d1117&height=2&section=header" alt="divider"/>
 </p>
 
 <p align="center">
   <a href="https://fahad-musa-portfolio.netlify.app" title="Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-fahad--musa--portfolio.netlify.app-f97316?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1A1A1A" />
+    <img src="https://img.shields.io/badge/Portfolio-fahad--musa--portfolio.netlify.app-06466B?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1A1A1A" />
   </a>
   <a href="https://www.linkedin.com/in/fahad-musa-ba30ab355" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-fahad--musa-f97316?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A1A" />
+    <img src="https://img.shields.io/badge/LinkedIn-fahad--musa-06466B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A1A" />
   </a>
   <a href="mailto:fahadmusa725@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Email-Contact-f97316?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A" />
+    <img src="https://img.shields.io/badge/Email-Contact-06466B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fahadmusa725.fahadmusa725&color=f97316&style=for-the-badge" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=fahadmusa725.fahadmusa725&color=06466B&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -61,7 +61,7 @@ I like building things that actually get finished and work end to end, not half-
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REST_API-f97316?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/REST_API-06466B?style=flat-square&labelColor=0d1117" />
 </p>
 
 ---
@@ -86,10 +86,9 @@ I like building things that actually get finished and work end to end, not half-
 ## GitHub Analytics
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics" />
+  <img src="https://github-readme-stats-tau-one-85.vercel.app/api?username=fahadmusa725&show_icons=true&bg_color=0d1117&title_color=ffffff&icon_color=c9d1d9&text_color=ffffff&border_color=06466B&hide_border=false&ring_color=06466B" alt="Fahad Musa's GitHub Stats" />
+  <img src="https://github-readme-stats-tau-one-85.vercel.app/api/top-langs/?username=fahadmusa725&layout=compact&bg_color=0d1117&title_color=ffffff&icon_color=c9d1d9&text_color=ffffff&border_color=06466B&hide_border=false" alt="Top Languages" />
 </p>
-
-<sub>Auto-generated daily by <code>.github/workflows/metrics.yml</code></sub>
 
 <p align="center">
   <img src="./streak-stats.svg" alt="GitHub streak stats" height="160" />
@@ -136,15 +135,6 @@ I like building things that actually get finished and work end to end, not half-
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-tau-one-85.vercel.app/api?username=fahadmusa725&show_icons=true&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=c9d1d9&hide_border=true" alt="Fahad Musa's GitHub Stats" />
-  <img src="https://github-readme-stats-tau-one-85.vercel.app/api/top-langs/?username=fahadmusa725&layout=compact&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=c9d1d9&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## Philosophy
 
 > Execution over words. If it doesn't work end to end, it isn't done.
@@ -153,10 +143,10 @@ I like building things that actually get finished and work end to end, not half-
 
 <p align="center">
   <a href="https://fahad-musa-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/Explore_my_portfolio_→-fahad--musa--portfolio.netlify.app-f97316?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117" alt="Visit portfolio" />
+    <img src="https://img.shields.io/badge/Explore_my_portfolio_→-fahad--musa--portfolio.netlify.app-06466B?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117" alt="Visit portfolio" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:f97316,100:0d1117&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06466B,100:0d1117&section=footer" />
 </p>
