@@ -76,10 +76,22 @@ I like building things that actually get finished and work end to end, not half-
     <img width="400" src="https://socialify.git.ci/fahadmusa725/pos-saas/image?custom_description=Multi-restaurant%20POS%20SaaS%20-%20React%2C%20Node.js%2C%20Express%2C%20MongoDB&description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="DineFlow POS" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/fahadmusa725/CodeAlpha_ProjectFlow">
+    <img width="400" src="https://socialify.git.ci/fahadmusa725/CodeAlpha_ProjectFlow/image?custom_description=Trello-style%20project%20management%20tool%20-%20Next.js%2C%20TypeScript%2C%20MongoDB%2C%20Ably&description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="ProjectFlow" />
+  </a>
+  <a href="https://github.com/fahadmusa725/CodeAlpha_Vibely">
+    <img width="400" src="https://socialify.git.ci/fahadmusa725/CodeAlpha_Vibely/image?custom_description=MERN%20social%20media%20app%20-%20React%2C%20Node.js%2C%20Express%2C%20MongoDB&description=1&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="Vibely" />
+  </a>
+</p>
 
 **CareFlow HMS**: a multi-tenant hospital management system. Handles patients, appointments, wards, lab, pharmacy and billing, with each hospital's data fully isolated from the others.
 
 **DineFlow POS**: a multi-restaurant point-of-sale system. Covers orders, a live kitchen display, inventory with recipe-based stock deduction, staff roles and permissions and reporting.
+
+**ProjectFlow**: a Trello-style project management tool built with Next.js, TypeScript and MongoDB. Boards with drag and drop, tasks with labels and priorities, comments, real-time sync with Ably, notifications and a project dashboard.
+
+**Vibely**: a MERN social media app with posts, stories, following and profiles.
 
 ---
 
